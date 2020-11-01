@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/UncleJesus/goit-js-hw-12-countriess"
   },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://unclejesus.github.io/goit-js-hw-12-countriess/",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
