@@ -51,7 +51,7 @@ function clearMarkup() {
   refs.countriesContainer.innerHTML = '';
 }
 
-function onError(error) {
+function onError() {
   clearMarkup();
 }
 
